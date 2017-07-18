@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1500318215 source:c:\users\charles\documents\camera_calibration\main.cpp
+	"core.hpp"
+	"imgcodecs.hpp"
+	"imgproc.hpp"
+	"highgui.hpp"
+	"aruco.hpp"
+	"calib3d.hpp"
+	"opencv.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	<sstream>
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+

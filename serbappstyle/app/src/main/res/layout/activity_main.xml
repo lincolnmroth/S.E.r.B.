@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="MainActivity"
+    android:background="@drawable/redradial">
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/serblogo"
+    android:id="@+id/serbtitlelogo"
+    android:paddingTop="70dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"/>
+
+<EditText
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/enterusername"
+    android:hint="Username"
+    android:paddingTop="320dp"
+    android:inputType="text"
+    android:maxLines="1"
+    android:layout_centerHorizontal="true"
+    android:textSize="40dp"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/enterpassword"
+        android:hint="Password"
+        android:layout_below="@+id/enterusername"
+        android:layout_centerHorizontal="true"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:textSize="40dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter"
+        android:id="@+id/mainenterbutton"
+        android:layout_below="@+id/enterpassword"
+        android:layout_centerHorizontal="true"
+        android:textAllCaps="false"
+        android:textSize="30dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/enterbuttonbg"
+        />
+</RelativeLayout>

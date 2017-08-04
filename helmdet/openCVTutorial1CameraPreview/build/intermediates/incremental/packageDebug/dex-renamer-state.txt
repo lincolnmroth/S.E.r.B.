@@ -1,0 +1,7 @@
+#Thu Aug 03 17:05:49 EDT 2017
+base.0=C\:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5fa0a9480e5942acb67df0cdf49c66ffd1d7a611
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4648dfde6742b5f9d44a58bedaaaeea1effbd655\\classes.dex
+base.1=C\:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4648dfde6742b5f9d44a58bedaaaeea1effbd655
+file.0=C\:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5fa0a9480e5942acb67df0cdf49c66ffd1d7a611\\classes.dex

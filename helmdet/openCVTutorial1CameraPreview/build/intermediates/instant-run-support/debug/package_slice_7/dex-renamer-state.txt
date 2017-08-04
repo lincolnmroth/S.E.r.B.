@@ -1,0 +1,4 @@
+#Thu Aug 03 17:05:35 EDT 2017
+base.0=C\:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=C\:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

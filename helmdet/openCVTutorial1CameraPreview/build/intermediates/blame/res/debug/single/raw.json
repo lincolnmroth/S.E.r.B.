@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "C:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charles\\AndroidStudioProjects\\helmdet\\openCVTutorial1CameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalcatface.xml",
+        "source": "C:\\Users\\Charles\\AndroidStudioProjects\\helmdet\\openCVTutorial1CameraPreview\\src\\main\\res\\raw\\lbpcascade_frontalcatface.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_silverware.xml",
+        "source": "C:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\src\\main\\res\\raw\\lbpcascade_silverware.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalcatface.xml",
+        "source": "C:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\src\\main\\res\\raw\\lbpcascade_frontalcatface.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charles\\AndroidStudioProjects\\helmdet\\openCVTutorial1CameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_silverware.xml",
+        "source": "C:\\Users\\Charles\\AndroidStudioProjects\\helmdet\\openCVTutorial1CameraPreview\\src\\main\\res\\raw\\lbpcascade_silverware.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charles\\AndroidStudioProjects\\helmdet\\openCVTutorial1CameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_profileface.xml",
+        "source": "C:\\Users\\Charles\\AndroidStudioProjects\\helmdet\\openCVTutorial1CameraPreview\\src\\main\\res\\raw\\lbpcascade_profileface.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_profileface.xml",
+        "source": "C:\\Users\\Charles\\AndroidStudioProjects\\Aruco-Marker-Tracking-Android-master\\openCVTutorial1CameraPreview\\src\\main\\res\\raw\\lbpcascade_profileface.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charles\\AndroidStudioProjects\\helmdet\\openCVTutorial1CameraPreview\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "C:\\Users\\Charles\\AndroidStudioProjects\\helmdet\\openCVTutorial1CameraPreview\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    }
+]
